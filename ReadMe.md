@@ -2,16 +2,16 @@
 A collection of Unity packages designed to allow for the quick implementation of common functionality.
 
 ## Included Assets
-- [**Audio Management**](Audio Management) - A set of managers and controllers which are used to handle the playing soundtrack and sound effect audio and to control audio volume.
-- [**Best Fit Text**](Best Fit Text) - Utilizes the built-in Text Component "Best Fit" feature to make a set of Text Components a uniform size based on the size of the smallest involved in that calculation.
-- [**Camera Controllers**](Camera Controllers) - A set of components related to limiting the aspect ratio or width of an orthographic Camera.
-- [**Common Coroutine Controller**](Common Coroutine Controller) - A singleton component designed to be called when Coroutine functionality is required within a non-MonoBehaviour script.
-- [**Loading UI**](Loading UI) - A set of scripts and components related to displaying a loading screen using Unity's UI system.
-- [**Localization System**](Localization System) - A system for loading and managing localizing text throughout an application, with a set of components provided which allow for automatic setting of text on UI.
-- [**Menu System**](Menu System) - A collection of components and scripts relating to the creation of menus using Unity's UI systems.
-- [**Profile System**](Profile System) - A system for saving and loading data for multiple users in a single application.
-- [**Transform Extensions**](Transform Extensions) - Set of extension methods for getting RectTransforms more easily and which adds additional functionality to existing Transform methods.
-- [**Video UI**](Video UI) - A set of components related to playing videos within Unity's UI system.
+- [**Audio Management**](Assets/BUCK/Audio%20Management) - A set of managers and controllers which are used to handle the playing soundtrack and sound effect audio and to control audio volume.
+- [**Best Fit Text**](Assets/BUCK/Best%20Fit%20Text) - Utilizes the built-in Text Component "Best Fit" feature to make a set of Text Components a uniform size based on the size of the smallest involved in that calculation.
+- [**Camera Controllers**](Assets/BUCK/Camera%20Controllers) - A set of components related to limiting the aspect ratio or width of an orthographic Camera.
+- [**Common Coroutine Controller**](Assets/BUCK/Common%20Coroutine%20Controller) - A singleton component designed to be called when Coroutine functionality is required within a non-MonoBehaviour script.
+- [**Loading UI**](Assets/BUCK/Loading%20UI) - A set of scripts and components related to displaying a loading screen using Unity's UI system.
+- [**Localization System**](Assets/BUCK/Localization%20System) - A system for loading and managing localizing text throughout an application, with a set of components provided which allow for automatic setting of text on UI.
+- [**Menu System**](Assets/BUCK/Menu%20System) - A collection of components and scripts relating to the creation of menus using Unity's UI systems.
+- [**Profile System**](Assets/BUCK/Profile%20System) - A system for saving and loading data for multiple users in a single application.
+- [**Transform Extensions**](Assets/BUCK/Transform%20Extensions) - Set of extension methods for getting RectTransforms more easily and which adds additional functionality to existing Transform methods.
+- [**Video UI**](Assets/BUCK/Video%20UI) - A set of components related to playing videos within Unity's UI system.
 
 ## Usage
 There are multiple different ways to add BUCK (or any of the ten BUCK asset collections) to your project:
@@ -26,4 +26,4 @@ All of the assets within BUCK have been designed to be as easily implementable a
 No BUCK asset depends on functionality contained within any other BUCK asset, and while code and components have been provided which work with TextMeshPro and the new Unity Input System, these are optional and are no required within your project if you do not wish to use them. Furthermore, minor additional functionality does exist in some assets when another BUCK asset exists within the project's Package system, but this is again completely optional.
 
 ## Licensing
-[LICENCE](LICENCE.md)
+[LICENCE](License.md)
