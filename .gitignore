@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.vs
+[Tt]extMesh Pro
+[Tt]extMesh Pro.meta
+[Bb]in
+[Ll]ogs
+[Ll]ibrary
+[Oo]bj
+[Ss]creenshots
+[Tt]emp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs

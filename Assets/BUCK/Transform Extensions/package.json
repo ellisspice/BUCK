@@ -1,0 +1,28 @@
+{
+  "name": "com.buck.transformextensions",
+  "version": "1.0.0",
+  "displayName": "BUCK Transform Extensions",
+  "description": "Set of extension methods for getting RectTransforms more easily and which adds additional functionality to existing Transform methods.",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.ui": "1.0.0"
+  },
+  "keywords": [
+    "Transform",
+    "BUCK",
+    "Basic Unity Component Kit",
+    "Extensions",
+    "RectTransform",
+    "Find"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

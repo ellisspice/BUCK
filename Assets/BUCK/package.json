@@ -1,0 +1,34 @@
+{
+  "name": "com.buck.allassets",
+  "version": "1.0.0",
+  "displayName": "BUCK All Assets",
+  "description": "A collection of Unity packages designed to allow for the quick implementation of common functionality.",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.video": "1.0.0"
+  },
+  "keywords": [
+    "BUCK",
+    "Basic Unity Component Kit",
+    "Audio Management",
+    "Best Fit Text",
+    "Camera Controllers",
+    "Common Coroutine Controller",
+    "Loading UI",
+    "Localization System",
+    "Menu System",
+    "Profile System",
+    "Transform Extensions",
+    "Video UI"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

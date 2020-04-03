@@ -1,0 +1,16 @@
+{
+    "name": "BUCK.CommonCoroutineController.Editor",
+    "references": [
+        "BUCK.CommonCoroutineController"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

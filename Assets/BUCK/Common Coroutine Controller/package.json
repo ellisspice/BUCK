@@ -1,0 +1,17 @@
+{
+  "name": "com.buck.commoncoroutinecontroller",
+  "version": "1.0.0",
+  "displayName": "BUCK Common Coroutine Controller",
+  "description": "A singleton component designed to be called when Coroutine functionality is required within a non-MonoBehaviour script.",
+  "unity": "2019.2",
+  "keywords": [
+    "Coroutine",
+    "BUCK",
+    "Basic Unity Component Kit"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

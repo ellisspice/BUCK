@@ -1,0 +1,19 @@
+{
+  "name": "com.buck.profilesystem",
+  "version": "1.0.0",
+  "displayName": "BUCK Profile System",
+  "description": "A system for saving and loading data for multiple users in a single application.",
+  "unity": "2019.2",
+  "keywords": [
+    "Profile System",
+    "BUCK",
+    "Basic Unity Component Kit",
+    "Save Data",
+    "PlayerPrefs"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

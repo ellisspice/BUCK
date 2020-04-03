@@ -1,0 +1,27 @@
+{
+  "name": "com.buck.videoui",
+  "version": "1.0.0",
+  "displayName": "BUCK Video UI",
+  "description": "A set of components related to playing videos within Unity's UI system.",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.video": "1.0.0"
+  },
+  "keywords": [
+    "Video Player",
+    "BUCK",
+    "Basic Unity Component Kit",
+    "Video",
+    "UI"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

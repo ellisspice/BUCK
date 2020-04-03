@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BUCK/Menu System/Examples/Unity UI/Menu.unity
+    guid: 7a3a6b57a2c53e64ca4ab675e288a17d
+  - enabled: 1
+    path: Assets/BUCK/Menu System/Examples/Unity UI/Gameplay.unity
+    guid: 54d258d7dea51f2489c45dc9ec384f0f
+  - enabled: 1
+    path: Assets/BUCK/Audio Management/Examples/Audio Managers.unity
+    guid: 48fcb8f97ff917145a43273da642d9a9
+  - enabled: 1
+    path: Assets/BUCK/Best Fit Text/Examples/Unity UI/Best Fit.unity
+    guid: df7fb4a3387d8404dbf84ed6927c49c6
+  - enabled: 1
+    path: Assets/BUCK/Best Fit Text/Examples/TMPro/Best Fit.unity
+    guid: 8fb25236314f1e24387526061eb8361e
+  - enabled: 1
+    path: Assets/BUCK/Camera Controllers/Examples/Camera Controllers.unity
+    guid: 5a0273dd48bb74d4c91f93939cd1e014
+  - enabled: 1
+    path: Assets/BUCK/Loading UI/Examples/Unity UI/LoadingSpinner.unity
+    guid: ccd62334bba6306499b244a7eaaab4a5
+  - enabled: 1
+    path: Assets/BUCK/Loading UI/Examples/Unity UI/LoadingBar.unity
+    guid: 84fa508fc0e34f74c836a26aa83451c7
+  - enabled: 1
+    path: Assets/BUCK/Loading UI/Examples/TMPro/LoadingSpinner.unity
+    guid: 11d0e4234d439934b9e59a8ee92a86f6
+  - enabled: 1
+    path: Assets/BUCK/Loading UI/Examples/TMPro/LoadingBar.unity
+    guid: b578a2049c64d7049a752fd2d4cf3f3e
+  - enabled: 1
+    path: Assets/BUCK/Localization System/Examples/Unity UI/Localization.unity
+    guid: cf0a6bc40b31d6748b3769ae99240584
+  - enabled: 1
+    path: Assets/BUCK/Localization System/Examples/TMPro/Localization.unity
+    guid: 17eef163b13c42941bcf5e0506b660fe
+  - enabled: 1
+    path: Assets/BUCK/Video UI/Examples/Unity UI/Video Player.unity
+    guid: 3234ae99998eac64a898f25146b92d5c
+  - enabled: 1
+    path: Assets/BUCK/Video UI/Examples/TMPro/Video Player.unity
+    guid: d4bee4c2233fca4499b2c17b5e3f5db7
+  m_configObjects: {}

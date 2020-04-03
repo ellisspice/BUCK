@@ -1,0 +1,29 @@
+{
+  "name": "com.buck.loadingui",
+  "version": "1.0.0",
+  "displayName": "BUCK Loading UI",
+  "description": "A set of scripts and components related to displaying a loading screen using Unity's UI system.",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.ui": "1.0.0"
+  },
+  "keywords": [
+    "Loading",
+    "BUCK",
+    "Basic Unity Component Kit",
+    "UI",
+    "Loading Spinner",
+    "Loading Bar",
+    "Loading UI"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

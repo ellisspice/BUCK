@@ -1,0 +1,24 @@
+{
+  "name": "com.buck.audiomanagement",
+  "version": "1.0.0",
+  "displayName": "BUCK Audio Management",
+  "description": "A set of managers and controllers which are used to handle the playing soundtrack and sound effect audio and to control audio volume.",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.modules.audio": "1.0.0"
+  },
+  "keywords": [
+    "Audio",
+    "BUCK",
+    "Audio Manager",
+    "Music",
+    "SFX",
+    "Sound Effects",
+    "Basic Unity Component Kit"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "com.buck.bestfittext",
+  "version": "1.0.0",
+  "displayName": "BUCK Best Fit Text",
+  "description": "Utilizes the built-in Text Component \"Best Fit\" feature to make a set of Text Components a uniform size based on the size of the smallest involved in that calculation.",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.ui": "1.0.0"
+  },
+  "keywords": [
+    "BUCK",
+    "Best Fit Text",
+    "UI",
+    "Best Fit",
+    "Text",
+    "Basic Unity Component Kit"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

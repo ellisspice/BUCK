@@ -1,0 +1,31 @@
+{
+  "name": "com.buck.menusystem",
+  "version": "1.0.0",
+  "displayName": "BUCK Menu System",
+  "description": "A collection of components and scripts relating to the creation of menus using Unity's UI systems.",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.ui": "1.0.0"
+  },
+  "keywords": [
+    "Arrows",
+    "BUCK",
+    "Basic Unity Component Kit",
+    "UI",
+    "Menu Manager",
+    "Controller",
+    "Gamepad",
+    "Orientation"
+  ],
+  "author": {
+    "name": "Ellis Spice",
+    "email": "buck@ellisspice.com",
+    "url": "https://www.ellisspice.com"
+  }
+}

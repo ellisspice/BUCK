@@ -1,0 +1,102 @@
+[
+  {
+    "Key": "HELLO",
+    "en": "Hello",
+    "fr": "Bonjour",
+    "de": "Hallo",
+    "it": "Ciao",
+    "es": "Hola",
+    "pt-BR": "Olá",
+    "ja": "こんにちは"
+  },
+  {
+    "Key": "GOODBYE",
+    "en": "Goodbye",
+    "fr": "Au revoir",
+    "de": "Auf Wiedersehen",
+    "it": "Addio",
+    "es": "Adiós",
+    "pt-BR": "Adeus",
+    "ja": "さようなら"
+  },
+  {
+    "Key": "ONE",
+    "en": "One",
+    "fr": "Un",
+    "de": "Eins",
+    "it": "Uno",
+    "es": "Uno",
+    "pt-BR": "Uma",
+    "ja": "一"
+  },
+  {
+    "Key": "TWO",
+    "en": "Two",
+    "fr": "Deux",
+    "de": "Zwei",
+    "it": "Due",
+    "es": "Dos",
+    "pt-BR": "Dois",
+    "ja": "二"
+  },
+  {
+    "Key": "THREE",
+    "en": "Three",
+    "fr": "Trois",
+    "de": "Drei",
+    "it": "Tre",
+    "es": "Tres",
+    "pt-BR": "Três",
+    "ja": "三"
+  },
+  {
+    "Key": "FOUR",
+    "en": "Four",
+    "fr": "Quatre",
+    "de": "Vier",
+    "it": "Quattro",
+    "es": "Cuatro",
+    "pt-BR": "Quatro",
+    "ja": "四"
+  },
+  {
+    "Key": "FIVE",
+    "en": "Five",
+    "fr": "Cinq",
+    "de": "Fünf",
+    "it": "Cinque",
+    "es": "Cinco",
+    "pt-BR": "Cinco",
+    "ja": "五"
+  },
+  {
+    "Key": "HELLO_TO",
+    "en": "Hello {0}",
+    "fr": "Bonjour {0}",
+    "de": "Hallo {0}",
+    "it": "Ciao {0}",
+    "es": "Hola {0}",
+    "pt-BR": "Olá {0}",
+    "ja": "こんにちは{0}"
+  },
+  {
+    "Key": "ENGLISH",
+    "en": "English",
+    "fr": "",
+    "de": "",
+    "it": "",
+    "es": "",
+    "pt-BR": "",
+    "ja": ""
+  },
+  {
+    "Key": "FRENCH",
+    "en": "",
+    "fr": "Français",
+    "de": "",
+    "it": "",
+    "es": "",
+    "pt-BR": "",
+    "ja": ""
+  }
+]
